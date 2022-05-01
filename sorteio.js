@@ -1,4 +1,4 @@
-let emissoras = ["Globo", "SBT", "Band", "Rede TV", "Cultura"];
+let emissoras = ["Globo", "SBT", "Band", "Rede TV", "TV Cultura"];
 
 function buscarEmissoras(){
     let busca = emissoras.length;
